@@ -2,16 +2,16 @@ module.exports = {
   siteMetadata: {
     title: 'New Covenant Baptist Church',
     address: {
-      name: 'University Lutheran Church',
-      streetAddress: '1604 NE 50th St',
-      unit: 'Room 202',
+      name: '',
+      streetAddress: '14054 Wallingford Ave N',
+      unit: '',
       city: 'Seattle',
       state: 'WA',
-      zipCode: 98105
+      zipCode: 98133
     },
     phone: '(206) 240-9648',
     email: 'stephenjungncbc@gmail.com',
-    serviceTime: '12:30',
+    serviceTime: '12:00',
     instagram: 'ncbcseattle'
   },
   plugins: [
