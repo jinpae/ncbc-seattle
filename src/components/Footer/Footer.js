@@ -37,9 +37,11 @@ const Footer = ({ address, email, phone, instagram, pages }) => {
               </Link>
             </div>
             <address>
-              <span>
-                {name} ({unit})
-              </span>
+              {name && (
+                <span>
+                  {name} {unit && `(${unit})`}
+                </span>
+              )}
               <span>
                 {streetAddress}, {city}, {state} {zipCode}
               </span>
