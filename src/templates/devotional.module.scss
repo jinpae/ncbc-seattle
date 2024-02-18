@@ -27,10 +27,6 @@
   .articleContent {
     font-size: 18px;
     font-weight: 300;
-
-    &.guideline {
-      font-style: italic;
-    }
   }
 
   .subTitleSkeleton {
@@ -95,6 +91,10 @@
 
   .guideline {
     margin-top: 64px;
+
+    &.articleContent {
+      font-style: italic;
+    }
 
     li {
       list-style-type: auto;
