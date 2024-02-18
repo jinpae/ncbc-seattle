@@ -163,7 +163,7 @@ export class DevotionalPageTemplate extends React.Component {
             </div>
             <div className={styles.guideline}>
               <h2>Daily Devotion Guideline</h2>
-              <div className={`${styles.articleContent} ${styles.guideline}`}>
+              <div className={styles.articleContent}>
                 <ol>
                   <li>Start with a prayer asking God to speak to you through the passage.</li>
                   <li>Read today’s passage until you are familiar with the story or the principal points of the text.</li>
