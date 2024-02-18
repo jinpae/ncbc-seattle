@@ -27,6 +27,10 @@
   .articleContent {
     font-size: 18px;
     font-weight: 300;
+
+    &.guideline {
+      font-style: italic;
+    }
   }
 
   .subTitleSkeleton {
@@ -87,6 +91,14 @@
     background: linear-gradient(to right, #fbfbfb 0, #f4f4f4 50%, #fbfbfb);
     background-size: 1000px;
     animation: loading 2s linear 0s infinite;
+  }
+
+  .guideline {
+    margin-top: 64px;
+
+    li {
+      list-style-type: auto;
+    }
   }
 
   @media only screen and (max-width: 900px) {
