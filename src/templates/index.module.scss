@@ -8,19 +8,26 @@
     }
   }
 
+  .toast {
+    padding: 0 24px;
+    background-color: #53a1b3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f8f8f8;
+    border-bottom: 1px solid darken(#53a1b3, 10%);
+  }
+
   .main {
     height: 100vh;
     background: url('../img/hero-bg.jpg') fixed center center;
     background-size: cover;
     display: flex;
     flex-direction: column;
-    justify-content: center;
   }
 
   /* Header style override */
   .header {
-    position: absolute;
-    top: 0;
     margin-top: 44px;
     border-bottom: none;
   }
@@ -30,7 +37,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: -80px;
+    flex-basis: 60%;
   }
 
   .title {

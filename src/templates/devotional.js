@@ -161,6 +161,19 @@ export class DevotionalPageTemplate extends React.Component {
                 dangerouslySetInnerHTML={{ __html: text }}
               />
             </div>
+            <div className={styles.guideline}>
+              <h2>Daily Devotion Guideline</h2>
+              <div className={styles.articleContent}>
+                <ol>
+                  <li>Start with a prayer asking God to speak to you through the passage.</li>
+                  <li>Read today’s passage until you are familiar with the story or the principal points of the text.</li>
+                  <li>Try picking out a key verse of the passage and giving your own title to the text that in your opinion best summarizes the main point.</li>
+                  <li>Try answering the question “Who is God/Jesus like?” from today’s passage.</li>
+                  <li>Prayerfully try to answer “What lesson is God teaching me from today’s devotion?”</li>
+                  <li>End with a prayer of thanksgiving and asking God “How can I apply today’s teachings?”</li>
+                </ol>
+              </div>
+            </div>
             <div className={styles.passageNav}>
               <Link
                 rel="prev"

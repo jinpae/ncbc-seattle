@@ -20,10 +20,10 @@ class Nav extends React.Component {
     if (
       this.navRef &&
       !this.navRef.contains(event.target) &&
-      (this.hamburgerMenuRef && !this.hamburgerMenuRef.contains(event.target))
+      this.hamburgerMenuRef && !this.hamburgerMenuRef.contains(event.target)
     ) {
-      this.setState(
-        ({ showLinks }) => (showLinks ? { showLinks: false } : null)
+      this.setState(({ showLinks }) =>
+        showLinks ? { showLinks: false } : null
       );
     }
   };
@@ -79,6 +79,11 @@ class Nav extends React.Component {
             <li>
               <Link to="/location/" onClick={this.handleLinkClick}>
                 Location
+              </Link>
+            </li>
+            <li>
+              <Link to="/giving/" onClick={this.handleLinkClick}>
+                Giving
               </Link>
             </li>
           </ul>

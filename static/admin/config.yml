@@ -57,3 +57,11 @@ collections:
           - {label: "Path", name: "path", widget: "hidden", default: "/location"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: src/pages/giving/index.md
+        label: Giving
+        name: giving
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "giving"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/giving"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}

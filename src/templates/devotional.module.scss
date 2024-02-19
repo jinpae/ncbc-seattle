@@ -89,6 +89,18 @@
     animation: loading 2s linear 0s infinite;
   }
 
+  .guideline {
+    margin-top: 64px;
+
+    .articleContent {
+      font-style: italic;
+    }
+
+    li {
+      list-style-type: auto;
+    }
+  }
+
   @media only screen and (max-width: 900px) {
     .articleTitle,
     .articleTitleSkeleton {
