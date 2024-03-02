@@ -10,3 +10,6 @@ yarn-error.log
 .DS_Store
 
 .swp
+
+#script generated
+static/assets/scripts/devotional-for-the-month.json
