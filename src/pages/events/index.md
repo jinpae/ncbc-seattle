@@ -11,6 +11,8 @@ Join the **Lenten Journey** (3/7-4/11): We meet every Friday during the Lent sea
 
 Every Friday during the lent season (March 7 - April 11) @ 6:30 pm
 
+---
+
 ## Easter
 
 Come, **Celebrate Easter**! (4/18-20):  Let us come together and give thanks for the sacrificial agape love of our Lord Jesus on the cross and His resurrection obtaining victory over sin and death!  Good Friday Service 8 pm, Easter Brunch 9:30 am, and combined Easter service with Hope church at 11 am.  Give thanks to the Lord for He is good!  
