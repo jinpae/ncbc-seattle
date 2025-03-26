@@ -72,6 +72,11 @@ class Nav extends React.Component {
               </Link>
             </li>
             <li>
+              <Link to="/events/" onClick={this.handleLinkClick}>
+                Events
+              </Link>
+            </li>
+            <li>
               <Link to="/devotional/" onClick={this.handleLinkClick}>
                 Devotional
               </Link>
