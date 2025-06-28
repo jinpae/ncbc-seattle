@@ -27,15 +27,7 @@ const IndexPage = ({ data }) => {
     <div className={styles.component}>
       <main className={styles.main}>
         <div className={styles.toast}>
-          <p>
-            Join us in-person worship services at 12:00 PM or {' '}
-            <a
-              href="https://www.youtube.com/@newcovenantbaptistchurch5257/streams"
-              target="_blank"
-            >
-              online
-            </a>!
-          </p>
+          <p>Join us Wednesdays in July for <a href="/events">Bible Study &amp; Fellowship!</a></p>
         </div>
         <Header className={styles.header} />
         <div className={styles.mainContent}>
