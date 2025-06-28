@@ -1,23 +1,22 @@
 ---
 templateKey: events
 path: /events
-title: Lenten Journey & Easter
+title: July Bible Study & Fellowship
 ---
-## Lenten Journey
+## July Wednesday Bible Study & Fellowship
 
-Join the **Lenten Journey** (3/7-4/11): We meet every Friday during the Lent season.  We start at 6:30 with sharing dinner together.  And we share our reflections on Jesus' parables from the Gospel of Luke as we journey with Christ to Jerusalem.  Let us come and share our journey with Christ together. 
+The Book of Revelation. Many people might consider it to be the most difficult book in the New Testament. It is full of strange and sometimes violent imagery. It is something right out of an imaginative fantasy or ‘apocalyptic’ movie. So, Christians feel uneasy and wonder if the book has any relevant purpose in today’s Christian life.
+
+Early Christians wondered, as the church grew and as they suffered persecution. Why was God allowing the tribulation? What were God’s ultimate plan for little churches in the threat of the empire’s power? Forced to worship Caesar or be persecuted and even death, what were they supposed to do? Where and how will it all end? After all, were Christians to give in and bow to the lords of the earth, including the Caesar?
+
+And the answer to all these questions came to a pastor, called John of Patmos in visions. Revelation (=apocalypse) is written to say no to these questions and much more! 
+
+> 1:1(ESV) The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John.
+
+So, let us not be deterred by the difficulties of the book. It is one of the most wonderful and inspiring book in the New Testament that will lead us to more meaningful worship of our God the Father and Creator. Even though the time is not favorable to worship. But remember the devil hates us worshipping God. The study of Revelation will strengthen our resolve and faith in the Lord Jesus and lead us to deeper love and worship of our Sovereign, Creator God.
 
 ### When
 
-Every Friday during the lent season (March 7 - April 11) @ 6:30 pm
+Wednesdays in July, 7:30–9:00 PM @ Church
 
-## Easter
-
-Come, **Celebrate Easter**! (4/18-20):  Let us come together and give thanks for the sacrificial agape love of our Lord Jesus on the cross and His resurrection obtaining victory over sin and death!  Good Friday Service 8 pm, Easter Brunch 9:30 am, and combined Easter service with Hope church at 11 am.  Give thanks to the Lord for He is good!  
-
-### When
-
-* **Good Friday Service**: April 18 @ 8:00 pm
-* **Easter Sunday**: Easter Brunch 9:30am / combined Easter service with Hope church@ 11:00 am
-
-<img src="/assets/Assisi-frescoes-entry-into-jerusalem-pietro_lorenzetti.jpg" alt="Entry into Jerusalem by Pietro Lorenzetti" width="460px" style="max-width: 100%; padding: 10px; background-color: #fbfbfb; border: 1px solid #ececec; display: block; margin-top: 32px; transform: rotate(-2deg); margin-left: -48px;">
+<img src="/assets/unknown-artist-agnus-dei-lamb-of-god-basilica-dei-santi-cosma-e-damiano-roma-italy-7th-century.jpg" alt="agnus-dei-lamb-of-god-basilica-dei-santi-cosma-e-damiano-roma-italy-7th-century" width="460px" style="max-width: 100%; padding: 10px; background-color: #fbfbfb; border: 1px solid #ececec; display: block; margin-top: 32px; transform: rotate(-2deg); margin-left: -48px;">
