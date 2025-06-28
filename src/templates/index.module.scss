@@ -16,6 +16,11 @@
     justify-content: center;
     color: #f8f8f8;
     border-bottom: 1px solid darken(#53a1b3, 10%);
+
+    a {
+      color: currentColor;
+      text-decoration-line: underline;
+    }
   }
 
   .main {
