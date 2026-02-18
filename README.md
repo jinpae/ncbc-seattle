@@ -47,6 +47,22 @@ The script will propt you to enter the translated name of the book mentioned in 
 
 You will find `devotional-for-the-month.json` file created then copy its contents to the appropriate place in `daily-devotion-passages.json`
 
+## Using the chat gpt prompt to build the devotional JSON
+
+Alternatively, within `/static/assets/scripts/gpt-prompts` you will find `pdf-to-json-devotion-prompt.md`
+
+You could visit chatgpt.com, upload both the prompt file, and the PDF containing all of the devotional to the chat. 
+
+Let ChatGPT do the work for you 😁
+
+*It is somehow not fully deterministic.. not sure why, use at your discretion. You MAY (or may not) need to give it a few more inputs..*
+
+IF it does some random things. You might want to follow up with
+
+```
+> Use the prompt to create a downloadable JSON file as instructed
+```
+
 ## Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
