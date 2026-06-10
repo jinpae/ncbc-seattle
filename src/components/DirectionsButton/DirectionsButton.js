@@ -3,7 +3,7 @@ import React from 'react';
 import styles from './DirectionsButton.module.scss';
 
 const DIRECTION_URL =
-  'https://www.google.com/maps/dir/?api=1&destination=14054+Wallingford+Ave+N,+Seattle,+WA+98133';
+  'https://www.google.com/maps/dir/?api=1&destination=10510+Stone+Ave+N,+Seattle,+WA+98133';
 
 const DirectionsButton = () => (
   <a
