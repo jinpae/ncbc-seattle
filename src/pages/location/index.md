@@ -12,7 +12,7 @@ Sundays at 12:00 pm
 ### Location
 
 <address>
-  14054 Wallingford Ave N<br />
+  10510 Stone Ave N<br />
   Seattle, WA 98133
 </address>
 
